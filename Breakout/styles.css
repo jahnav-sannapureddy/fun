@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+
+#gameboard{
+    background-color: black;
+    border: 5px solid skyblue;
+}
+
